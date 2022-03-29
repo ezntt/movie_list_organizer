@@ -1,0 +1,324 @@
+LISTA ORGANIZADA
+
+Total de filmes: 317
+Vistos: 172
+N�o vistos: 145
+
+
+(X) Ao Cair Da Noite 
+(X) O Homem Duplicado 
+(X) Todo Mundo Quase Morto 
+(X) A Origem 
+(X) Sniper Americano 
+(X) Por Um Fio 
+(X) Pantera Negra 
+(X) Up 
+(X) 12 Monkeys 
+(X) Ensaio Sobre A Cegueira 
+(X) Donnie Darko 
+(X) Opera��o Overlord 
+(X) Ilha Do Medo 	
+(X) O Homem Nas Trevas 
+(X) Corra 
+(X) Poder Sem Limites 
+(X) Kick Ass 
+(X) Por Um Fio 
+(X) Mad Max 
+(X) Senhor Das Armas 
+(X) Quest�o De Tempo 
+(X) Ex Machina 
+(X) O Feiti�o Do Tempo 
+(X) Bird Box 
+(X) Bandersnatch 
+(X) Abismo Do Medo 
+(X) Sorry To Bother You 
+(X) A Grande Aposta 
+(X) Ta Dando Onda 
+(X) A Rede Social 
+(X) A Outra Face 
+(X) Pantera Negra 
+(X) Homem Formiga 
+(X) Homem Formiga E A Vespa 
+(X) Deadpool 
+(X) Deadpool 2 
+(X) Doutor Estranho 
+(X) Infinity War 
+(X) Civil War 
+(X) A Noite Do Jogo 
+(X) O Mascara 
+(X) Expresso Do Amanh� 
+(X) Os Infiltrados 
+(X) Prenda-Me Se For Capaz 
+(X) A Quiet Place 
+(X) A Quiet Place 2 
+(X) Glass 
+(X) L� Vem Os Pais 
+(X) Os Outros Caras 
+(X) Sicario 
+(X) Sicario 2 
+(X) N�s 
+(X) Novo Mib 
+(X) A Epidemia 
+(X) Misterio No Mediterraneo 
+(X) As Vozes 
+(X) Midsommar 
+(X) Doutor Sono 
+(X) Hist�rias Assustadoras Para Contar No Escuro 
+(X) Brightburn - Filho Das Trevas 
+(X) O Primeiro Mentiroso 
+(X) Sala Verde 
+(X) O Bar 
+(X) As Branquelas 
+(X) The Cube 
+(X) Friday 
+(X) Bad Boys 
+(X) Bad Boys 2 
+(X) Shazam 
+(X) Hereditario 
+(X) A Autopsia 
+(X) Coringa 
+(X) Zumbilandia 2 
+(X) Homem Aranha Longe De Casa 
+(X) Democracia Em Vertigem 
+(X) Sunshine 
+(X) Triangle 
+(X) Eu Queria Ter A Sua Vida 
+(X) Zodiaco 
+(X) Um Sonho De Liberdade 
+(X) Os Suspeitos 
+(X) Perdido Em Marte 
+(X) Distrito 9 
+(X) O Abutre 
+(X) Argo 
+(X) Dia De Treinamento 
+(X) Aguas Rasas 
+(X) Zona Mortal 
+(X) Sequestro Do Metro 123 
+(X) Brilho Eterno De Uma Mente Sem Lembran�as 
+(X) A Perfei��o 
+(X) Infiltrado Na Klan 
+(X) Oldboy 
+(X) Genio Indomavel 
+(X) O Livro De Eli 
+(X) No Fim Do Tunel 
+(X) Cidade De Deus 
+(X) Campo Do Medo 
+(X) Fratura 
+(X) Bacurau 
+(X) Corrente Do Mal 
+(X) Joias Brutas 
+(X) Familia Do Bagulho 
+(X) Parasita 
+(X) O Po�o 
+(X) O Homem Invisivel 
+(X) Vivarium 
+(X) Godzilla 
+(X) Kong A Ilha Da Caveira 
+(X) Godzila Ii 
+(X) Godzilla Vs King Kong 
+(X) Bad Boys Forever 
+(X) X-Men O Filme 
+(X) X-Men 2 
+(X) X-Men O Confonto Final 
+(X) X-Men Origens: Wolverine 
+(X) X-Men Primeira Classe 
+(X) Queen E Slim 
+(X) Old Guard 
+(X) Saint Maud 
+(X) Host 
+(X) Sputnik 
+(X) Black Box 
+(X) Rec 1 
+(X) Rec 2 
+(X) Rec 3 
+(X) Rec 4 
+(X) Relic 
+(X) Coherence 
+(X) Primer 
+(X) The Invitation 
+(X) O Resgate 
+(X) John Wick 
+(X) John Wick 2 
+(X) John Wick 3 
+(X) Sob O Dominio Do Mal 
+(X) 300 
+(X) Head Count 
+(X) Greenland 
+(X) Judas And Black Messiah 
+(X) O Que Ficou Para Tr�s 
+(X) The Taking Of Deborah 
+(X) Afflicted 
+(X) Daniel Isnt Real 
+(X) The Den 
+(X) Promising Young Woman 
+(X) Two Distant Strangers 
+(X) The Bay 
+(X) The Loved Ones 
+(X) Amor E Monstros 
+(X) Old 
+(X) A Guerra Do Amanh�  
+(X) Nobody 
+(X) Swallow 
+(X) Invoca�ao Do Mal 3 
+(X) Awake 
+(X) Creed 
+(X) Creed Ii 
+(X) A Liga��o 
+(X) I Am Mother 
+(X) Paternidade 
+(X) The Killing Of A Sacred Deer 
+(X) Os Infiltrados 
+(X) O Homem Nas Trevas 2 
+(X) Cam 
+(X) A Classic Horror Story 
+(X) Girl On The Third Floor 
+(X) C�u Vermelho Sangue 
+(X) In The Earth 
+(X) Untitled Horror Movie 
+(X) Caveat 
+(X) Old Ways 
+( ) Todos Toy Story
+( ) Uma Aventura Lego
+( ) Birdman
+( ) Rei Le�o
+( ) Moana
+( ) Ta Dando Onda 2
+( ) Divertidamente
+( ) Zootopia
+( ) N�o Sou Seu Negro
+( ) O Regresso
+( ) Todos Star Wars
+( ) I Am Heath Ledger
+( ) O Resgate Do Soldado Ryan
+( ) Dunkirk
+( ) Onde Os Fracos Nao Tem Vez
+( ) Caes De Aluguel
+( ) Moonlight
+( ) O Ataque Dos Vermes Malditos
+( ) Laranja Mecanica
+( ) 2001 Uma Odisseia No Espa�o
+( ) Blade Runner
+( ) O Primeiro Homem
+( ) Spotlight
+( ) Tucker E Dale Vs Evil
+( ) Kiss Kiss Bang Bang
+( ) Onze Homens E Um Segredo
+( ) Trov�o Tropical 
+( ) Spiderman In The Spider Universe
+( ) A Quiet Place 3
+( ) O Lagosta
+( ) Al�m Do Universo
+( ) Avatar
+( ) Buscando
+( ) O Gangster
+( ) Borat
+( ) Django Livre
+( ) O Estranho Caso De Benjamin Button 
+( ) Forrest Gump
+( ) Era Uma Vez Em Hollywood
+( ) Looper Assassinos Do Futuro
+( ) Piratas Da Inform�tica
+( ) Atra��o Perigosa
+( ) Nenhum Sistema Esta A Salvo
+( ) Diario De Um Adolescente 
+( ) Gangues De Nova York
+( ) Dead Snow
+( ) Escondidos
+( ) Exterminio
+( ) Roma
+( ) Martyrs
+( ) Nasce Uma Estrela
+( ) Amnesia
+( ) Boa Noite Mamae
+( ) Jogo Duro
+( ) Contatos De Quarto Grau
+( ) Advogado Do Diabo
+( ) Cidade Dos Sonhos
+( ) Ad Astra
+( ) I See You
+( ) Mother
+( ) O Predestinado
+( ) Mandy
+( ) They Look Like People
+( ) Run
+( ) Os 10 Mandamentos 
+( ) Lake Mungo
+( ) Hunter Hunter
+( ) The Celebration
+( ) Infabric
+( ) Deus E O Diabo Na Terra Do Sol
+( ) O Bicho De Sete Cabe�as
+( ) O Som Ao Redor
+( ) O Auto Da Cumpadecida
+( ) Broder
+( ) O Farol
+( ) Watchmen
+( ) The Master
+( ) Boyhood
+( ) Marcados Pra Morrer
+( ) Heaven Is Real
+( ) The Room
+( ) The Endless
+( ) Resolution
+( ) Malcom X
+( ) Synchronic
+( ) The Lodge
+( ) The Father
+( ) Mank
+( ) Minari
+( ) Nomadland
+( ) Sound Of Metal
+( ) The Trial Of The Chicago 7
+( ) The United States Vs. Billie Holiday
+( ) A Voz Suprema Do Blues
+( ) Era Uma Vez Um Sonho
+( ) White Eye
+( ) Snyder Cut
+( ) First They Kylled My Father
+( ) Da 5 Bloods
+( ) Trollhunter
+( ) The Bordelands
+( ) The Conspiracy
+( ) Upgrade
+( ) Let The Right One In
+( ) We Are Still Here
+( ) Color Out Of Space
+( ) The Dark And The Wicked
+( ) Terrified
+( ) Venom 2
+( ) Eternos 
+( ) The Batman 
+( ) O Esquadr�o Suicida 2 
+( ) Compliance
+( ) She Dies Tomorrow
+( ) Zombi Child
+( ) Crawl
+( ) The Night Eats The World
+( ) By The Grace Of God
+( ) Hostile
+( ) Terra Dos Mortos
+( ) The Cured
+( ) Melancolia
+( ) O Dia Em Que A Terra Parou
+( ) Inside Man
+( ) The Godfather
+( ) Duna
+( ) Knives Out
+( ) Harpoon
+( ) The Vast Of Night
+( ) The Empty Man
+( ) Pig
+( ) A Nuvem
+( ) Lucky
+( ) Gaia
+( ) Come True
+( ) Finch
+( ) Free Guy
+( ) The Green Knight
+( ) A Chorona
+( ) Moonfall
+( ) The Boy Behind The Door
+( ) Prisoners Of The Ghostland
+( ) Son
+( ) The Night House
+( ) The Power
